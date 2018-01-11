@@ -1,5 +1,6 @@
-def printing():
+def introduce():
     print("Hello, I'm Gittie!")
+    print("This will produce a nice git conflict!")
 
 def add(a, b):
     return a + b
